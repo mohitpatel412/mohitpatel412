@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 * **Languages:** JavaScript, TypeScript, HTML, CSS, C++
 * **Frontend:** React.js, Redux, React Query, Apollo Client (GraphQL), Tailwind CSS, Webpack
-* **Backend & CI/CD:** Node.js, Express.js, REST APIs, Jenkins, Docker, GitHub Actions
+* **Backend & CI/CD:** Node.js, MongoDB, Express.js, REST APIs, Jenkins, Docker, GitHub Actions
 * **Testing & Observability:** Cypress, Splunk, Kibana, Looker
 
 ---
