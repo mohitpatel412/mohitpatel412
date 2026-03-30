@@ -1,19 +1,15 @@
-# Hello there, I am Mohit
+# Hi there, I'm Mohit Patel 👋
 
-## I am a Full Stack Web developer.
+### 👨‍💻 About Me
+* I'm a Software Development Engineer specializing in building scalable front-end architectures.
+* 🛠️ Currently building an E2E Flakiness Intelligence MCP server using JavaScript tailored for enterprise GitHub environments (e.g., custom git domains). 
 
-### Languages and Frameworks
+---
 
-<image src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="20">&nbsp;
-<image src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="20">&nbsp;
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20">&nbsp;
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20">&nbsp;
-<image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20">
-    
-  
-### Currently Learning
+### 🛠️ Tech Stack
+* **Languages:** JavaScript, TypeScript, HTML, CSS, C++
+* **Frontend:** React.js, Redux, React Query, Apollo Client (GraphQL), Tailwind CSS, Webpack
+* **Backend & CI/CD:** Node.js, Express.js, REST APIs, Jenkins, Docker, GitHub Actions
+* **Testing & Observability:** Cypress, Splunk, Kibana, Looker
 
-- NextJS
-- TypeScript
-
-<!--[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitpatel412&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+---
